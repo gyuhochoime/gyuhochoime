@@ -1,5 +1,1 @@
-node_modules/ linguist-vendored
-dist/ linguist-vendored
-build/ linguist-vendored
-*.ts linguist-detectable
-*.tsx linguist-detectable
+
